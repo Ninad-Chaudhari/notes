@@ -1043,3 +1043,81 @@ Article 10(5) represents an important step toward regulating AI fairness by allo
 
 You’ve now fully mastered this paper 💪
 
+
+The **Colorado AI Act (CAIA)**, also known as **SB24-205**, is a "first-of-its-kind" law in the U.S. because it doesn't just ask for transparency—it sets a **Duty of Care** for both the people who build AI and the companies that use it.
+
+It officially goes into effect on **February 1, 2026**.
+
+Below is a detailed breakdown of the key concepts you’ll likely see on your test.
+
+---
+
+## 1. The Core Concept: "High-Risk AI"
+The law doesn't care about every AI. It only regulates **High-Risk AI Systems**. To be high-risk, a system must meet two criteria:
+1.  **It makes or is a "Substantial Factor" in a decision:** If the AI's output is capable of changing the final result, it counts.
+2.  **It leads to a "Consequential Decision":** This is the "Where" of the law.
+
+### **The 8 "Consequential" Domains**
+A decision is consequential if it affects a consumer’s access to, or the cost of:
+* **Education** (Enrollment/opportunities)
+* **Employment** (Hiring/firing/promotions)
+* **Financial Services** (Lending/credit)
+* **Government Services** (Public assistance)
+* **Healthcare** (Medical services)
+* **Housing** (Rentals/mortgages)
+* **Insurance** (Premiums/coverage)
+* **Legal Services** (Legal aid/advice)
+
+---
+
+## 2. Key Vocabulary for the Test
+
+* **Algorithmic Discrimination:** This is the "villain" the law is fighting. It occurs when an AI causes **unlawful differential treatment** (bias) against a protected class (race, gender, age, disability, etc.).
+* **Developer:** The person/company that **builds** or significantly modifies the AI. (e.g., OpenAI or a specialized tech firm).
+* **Deployer:** The person/company that **uses** the AI to make decisions about people. (e.g., a bank using AI to screen loans).
+* **Duty of Care:** A legal obligation to use "reasonable care" to protect consumers from the known risks of discrimination.
+
+---
+
+## 3. The "Division of Labor" (Obligations)
+Think of this as a chain of responsibility: **Developers** give the info, **Deployers** use it safely, and **Consumers** get the rights.
+
+### **A. Developer Obligations (The "Specs")**
+* **Documentation:** They must provide "Model Cards" or "Dataset Cards" to deployers.
+* **Public Summary:** They must post a public summary on their website of the high-risk systems they’ve built.
+* **Incident Reporting:** If they find their AI is discriminating, they have **90 days** to tell the Attorney General and the companies using it.
+
+### **B. Deployer Obligations (The "Usage")**
+* **Risk Management:** They must have a policy in place to catch bias.
+* **Impact Assessments:** They must conduct an **annual audit** of the AI's impact.
+* **Public Statement:** Like developers, they must post a summary of what AI they use and how they manage the risks.
+
+### **C. Consumer Rights (The "Shield")**
+If a consumer is subjected to a high-risk AI decision:
+1.  **Right to Notice:** They must be told AI is being used *before* the decision.
+2.  **Right to Explanation:** If they get a "No" (an adverse decision), they must be told **why** and how much the AI influenced it.
+3.  **Right to Appeal:** They have the right to a **human review** of the decision.
+4.  **Right to Correct:** They can fix any inaccurate data the AI used.
+
+---
+
+## 4. Enforcement and Defenses
+* **The Enforcer:** Only the **Colorado Attorney General** can sue companies. There is **NO Private Right of Action** (individuals cannot sue the company themselves).
+* **Safe Harbor / Affirmative Defense:** If a company catches their own mistake, fixes it, and follows a recognized framework (like the **NIST AI Risk Management Framework**), they may have a legal defense against fines.
+* **Small Business Exemption:** Companies with **fewer than 50 employees** don't have to do the heavy "Risk Management" or "Impact Assessments," but they *still* have a duty of care and must provide consumer notices.
+
+---
+
+## 5. Potential "Tricky" Exam Questions
+
+* **Q: Does the law apply to an AI that just suggests movies on Netflix?**
+    * *A: No. Entertainment is not one of the 8 "Consequential" domains.*
+* **Q: Can a resident sue a bank for an AI loan denial under CAIA?**
+    * *A: No. Only the Attorney General can enforce the law.*
+* **Q: If an employer uses a tool to screen resumes, are they a Developer or a Deployer?**
+    * *A: Usually a **Deployer**. However, if they "substantially modify" the tool, they might become a **Developer** too.*
+
+---
+
+**I've updated your notes to include these Colorado AI Act specifics. Would you like me to create a comparison chart between NYC LL 144 and the Colorado AI Act?**
+
