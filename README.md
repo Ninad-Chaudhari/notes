@@ -469,3 +469,232 @@ If you’re ready, I’ll give you:
 * Mobley vs Workday classification
 
 Just say **“Meta”**
+
+
+Got it — here’s a **clean, focused summary of ONLY this Meta DOJ document + settlement (no extra info, no jumping ahead).**
+
+---
+
+# 📘 **Meta (HUD vs Meta) — Summary Cheat Sheet**
+
+---
+
+# 🧠 **1. What the case is about**
+
+The U.S. Department of Justice (DOJ), based on a HUD investigation, sued Meta for:
+
+> **Discriminatory housing advertising in violation of the Fair Housing Act (FHA)**
+
+---
+
+## 🔥 Core allegation:
+
+> Meta’s **ad targeting and delivery system** discriminated against users based on protected characteristics.
+
+---
+
+# ⚖️ **2. Law involved**
+
+* **Fair Housing Act (FHA)**
+* Protects against discrimination based on:
+
+  * race
+  * color
+  * religion
+  * sex
+  * disability
+  * familial status
+  * national origin
+
+---
+
+# ⚙️ **3. Where discrimination occurred (3 key parts)**
+
+---
+
+## 🔹 1. Advertiser targeting
+
+* Meta allowed advertisers to:
+
+  * include/exclude users based on protected traits
+
+👉 Example:
+
+* Excluding certain racial groups from housing ads
+
+---
+
+## 🔹 2. Lookalike / Special Ad Audience tool
+
+* Algorithm finds users who “look like” a selected group
+
+👉 Problem:
+
+* Replicates bias from original group
+
+---
+
+## 🔹 3. Ad delivery algorithm (MOST IMPORTANT)
+
+* Decides who actually sees ads
+
+👉 Key issue:
+
+> Even with fair targeting, delivery was biased
+
+---
+
+## 🔥 Critical takeaway:
+
+> Discrimination happened at **multiple stages of the system**
+
+---
+
+# 🚨 **4. Key finding from HUD**
+
+> Meta’s system delivered housing ads differently across protected groups
+
+---
+
+## 🔥 Important nuance:
+
+> This happened **even when advertisers tried to target broadly**
+
+---
+
+## 🧠 Meaning:
+
+* Bias is not just advertiser-driven
+* It is **algorithm-driven**
+
+---
+
+# ⚖️ **5. Theories of discrimination (EXAM CRITICAL)**
+
+> The complaint alleges:
+
+* **Disparate Treatment**
+* **Disparate Impact**
+
+---
+
+## 🔹 Disparate Treatment
+
+* Meta **intentionally used protected characteristics**
+* Example: algorithms using race/gender
+
+---
+
+## 🔹 Disparate Impact
+
+* Algorithms caused **unequal outcomes across groups**
+* Example: some groups saw fewer housing ads
+
+---
+
+# 🔧 **6. What Meta was required to do (Settlement)**
+
+---
+
+## ❌ Remove tool
+
+* Stop using **Special Ad Audience (Lookalike tool)**
+
+---
+
+## ⚙️ Build new system
+
+* Must reduce disparities in ad delivery
+
+---
+
+## 🔍 Oversight
+
+* Subject to:
+
+  * DOJ approval
+  * court oversight
+  * independent reviewer
+
+---
+
+## ❌ Restrict targeting
+
+* Cannot allow targeting based on protected traits
+
+---
+
+## 💰 Penalty
+
+* Pay civil fine
+
+---
+
+# ⚠️ **7. If Meta fails**
+
+* Settlement ends
+* Case goes to court
+
+---
+
+# 🔥 **8. Key legal shift**
+
+> Platforms (like Meta) can be held responsible for algorithmic discrimination
+
+---
+
+## 🧠 Meaning:
+
+* Not just advertisers
+* The **system itself is liable**
+
+---
+
+# 🎯 **9. Most important insights**
+
+---
+
+## 🧠 1.
+
+> Discrimination can happen in **delivery**, not just targeting
+
+---
+
+## 🧠 2.
+
+> Algorithms can use or replicate protected characteristics
+
+---
+
+## 🧠 3.
+
+> Even neutral advertiser intent does NOT prevent discrimination
+
+---
+
+## 🧠 4.
+
+> Lookalike systems amplify existing bias
+
+---
+
+## 🧠 5.
+
+> Platforms are accountable under FHA
+
+---
+
+# 🧠 **ONE-LINE MASTER SUMMARY**
+
+> Meta’s ad system was found to discriminate in housing ads through targeting, lookalike expansion, and delivery algorithms, leading to both disparate treatment and disparate impact, and the settlement requires major system-level changes and oversight.
+
+---
+
+# ⏭️ Next
+
+When you’re ready, send the next doc — we’ll extract:
+
+* VRS
+* Mobley vs Workday
+* Final quiz answers cleanly 🚀
+
