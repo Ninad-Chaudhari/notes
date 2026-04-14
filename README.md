@@ -698,3 +698,475 @@ When you’re ready, send the next doc — we’ll extract:
 * Mobley vs Workday
 * Final quiz answers cleanly 🚀
 
+
+
+Perfect — here’s your **final, exam-ready cheat sheet pack** for:
+
+1. **Meta (HUD v. Meta)**
+2. **VRS (Variance Reduction System)**
+3. **Mobley v. Workday**
+
+Everything is **clear, verbose, example-driven**, and **only based on what you studied**.
+
+---
+
+# 📘 **CHEAT SHEET 1 — HUD v. Meta (Algorithmic Housing Discrimination)**
+
+---
+
+# 🧠 **1. Core Idea**
+
+> Meta’s advertising system **discriminates in housing ads** through how it:
+
+* targets users
+* expands audiences
+* delivers ads
+* prices ads
+
+👉 Even when ads themselves are neutral.
+
+---
+
+# ⚙️ **2. How Meta’s System Works (2 Stages)**
+
+---
+
+## 🔹 Stage 1: Targeting (Eligible Audience)
+
+👉 Advertiser selects:
+
+* who SHOULD see the ad
+* who should NOT
+
+---
+
+### 📌 Example:
+
+* Exclude:
+
+  * women
+  * certain zip codes
+  * “parents”
+
+👉 Already risky
+
+---
+
+---
+
+## 🔹 Stage 2: Delivery (Actual Audience) ⭐ MOST IMPORTANT
+
+👉 Meta decides:
+
+> who ACTUALLY sees the ad
+
+---
+
+### 📌 Example:
+
+* Advertiser: “show to everyone”
+* Meta:
+
+  * shows 80% to men
+
+👉 Discrimination happens HERE
+
+---
+
+## 🔥 Key Insight:
+
+> Advertisers ≠ final control → **Meta controls outcomes**
+
+---
+
+# 🧩 **3. Lookalike / Special Ad Audience**
+
+---
+
+## 🔥 What it does:
+
+* Takes a source group
+* Finds “similar users”
+
+---
+
+### 📌 Example:
+
+* Source = mostly white users
+  → algorithm finds more white users
+
+---
+
+## 🧠 Why this is bad:
+
+> Replicates and amplifies existing bias
+
+---
+
+# ⚙️ **4. Algorithmic Delivery Bias**
+
+---
+
+## 🔥 How it works:
+
+Meta predicts:
+
+> who is most likely to engage
+
+---
+
+### 📌 Example:
+
+* Men click more on housing ads
+  → system shows more ads to men
+
+---
+
+## 🧠 Meaning:
+
+> Optimization → discrimination
+
+---
+
+# 💰 **5. Pricing Mechanism (VERY IMPORTANT)**
+
+---
+
+## 🔥 Idea:
+
+> Some users are “cheaper” to show ads to
+
+---
+
+### 📌 Example:
+
+* Ads cost less for men
+  → system shows more ads to men
+
+---
+
+## 🧠 Insight:
+
+> Pricing indirectly drives discrimination
+
+---
+
+# 🔁 **6. Proxy Discrimination**
+
+---
+
+## 🔥 Key idea:
+
+> System uses proxies instead of explicit race/gender
+
+---
+
+### 📌 Examples:
+
+* College → race
+* Zip code → race
+* Interests → gender
+
+---
+
+## 🧠 Meaning:
+
+> Even without explicit targeting → same result
+
+---
+
+# ⚖️ **7. Theories of Discrimination (EXAM CRITICAL)**
+
+---
+
+## ✅ Disparate Treatment
+
+> Uses protected traits directly
+
+📌 Example:
+
+* Algorithm uses gender
+
+---
+
+## ✅ Disparate Impact
+
+> Neutral system → unequal outcomes
+
+📌 Example:
+
+* Women see fewer housing ads
+
+---
+
+## 🎯 FINAL ANSWER:
+
+> Meta case = **BOTH**
+
+---
+
+# ⚠️ **8. MOST IMPORTANT INSIGHT**
+
+> Even if advertiser is fair →
+> system can still discriminate
+
+---
+
+# 🧠 **ONE-LINE SUMMARY**
+
+> Meta’s system discriminates through targeting, lookalike expansion, delivery, and pricing, leading to both disparate treatment and disparate impact.
+
+---
+
+---
+
+# 📘 **CHEAT SHEET 2 — VRS (Variance Reduction System)**
+
+---
+
+# 🧠 **1. What is VRS?**
+
+> A system designed to **reduce differences (variance)** between:
+
+* intended audience
+* actual audience
+
+---
+
+# 🎯 **2. What it is built to do**
+
+> Ensure:
+> **who sees the ad ≈ who was targeted**
+
+---
+
+### 📌 Example:
+
+* Target:
+
+  * 50% men, 50% women
+
+* Without VRS:
+
+  * 80% men
+
+* With VRS:
+
+  * closer to 50/50
+
+---
+
+# ⚙️ **3. How it works**
+
+---
+
+## Step 1: Measure
+
+* Who actually saw the ad
+
+---
+
+## Step 2: Compare
+
+* Compare to intended audience
+
+---
+
+## Step 3: Adjust
+
+* Rebalance delivery
+
+---
+
+### 📌 Example:
+
+* Too many men
+  → boost delivery to women
+
+---
+
+# 🔍 **4. Does VRS use demographics? (VERY TESTABLE)**
+
+---
+
+## ❌ NO:
+
+> Individual-level demographics
+
+---
+
+## ✅ YES:
+
+> Aggregated estimates
+
+---
+
+### 📌 Example:
+
+* NOT:
+
+  * “this user is Black”
+
+* BUT:
+
+  * “this group ≈ 40% Black”
+
+---
+
+## 🎯 FINAL ANSWER:
+
+> Uses aggregated, not individual-level demographic data
+
+---
+
+# ⚠️ **5. Limitation**
+
+> Only fixes **delivery bias**, not targeting
+
+---
+
+# 🧠 **ONE-LINE SUMMARY**
+
+> VRS reduces disparities in ad delivery by aligning actual audiences with intended audiences using aggregated demographic estimates.
+
+---
+
+---
+
+# 📘 **CHEAT SHEET 3 — Mobley v. Workday**
+
+---
+
+# 🧠 **1. Core Idea**
+
+> AI hiring system repeatedly rejected a candidate → alleged bias
+
+---
+
+# ⚙️ **2. What Workday does**
+
+* AI screening tool
+* Evaluates applicants
+* Can:
+
+  * reject automatically
+
+---
+
+### 📌 Example:
+
+* Apply → instant rejection → no human review
+
+---
+
+# ⚠️ **3. Where bias comes from**
+
+---
+
+## 🔥 Key idea:
+
+> System infers protected traits indirectly
+
+---
+
+### 📌 Examples:
+
+* College → race
+* Graduation year → age
+* Personality test → disability
+
+---
+
+# ⚖️ **4. Legal breakthrough**
+
+---
+
+## 🔥 Key ruling:
+
+> Workday can be treated as an **agent of employers**
+
+---
+
+## 🧠 Meaning:
+
+* Employers delegated hiring
+* AI made decisions
+
+---
+
+# 🔥 **5. Theory of discrimination (EXAM QUESTION)**
+
+---
+
+## ✅ Disparate Impact
+
+---
+
+## 🧠 Why:
+
+> No need to prove intent
+> Only need unequal outcomes
+
+---
+
+### 📌 Example:
+
+* Older candidates rejected more
+* Black candidates rejected more
+
+---
+
+## 🎯 FINAL ANSWER:
+
+> Mobley v. Workday = **Disparate Impact**
+
+---
+
+# ⚠️ **6. Important nuance**
+
+> Not all AI tools are liable
+> 👉 Only those that:
+
+* directly influence decisions
+
+---
+
+# 🧠 **ONE-LINE SUMMARY**
+
+> Workday’s AI hiring system is challenged under a disparate impact theory because it may disproportionately reject protected groups without intentional discrimination.
+
+---
+
+# 🚀 **FINAL 10-SECOND REVISION**
+
+---
+
+## 🧠 Meta:
+
+> BOTH treatment + impact
+
+---
+
+## 🧠 VRS:
+
+> Reduces delivery bias
+> ❌ no individual demographics
+> ✅ aggregated only
+
+---
+
+## 🧠 Workday:
+
+> Disparate impact
+
+---
+
+---
+
+If you want, I can now:
+✅ give you **MCQs exactly like your quiz**
+✅ or do a **rapid-fire test** to lock this in
+
+Just say 👍
+
+
